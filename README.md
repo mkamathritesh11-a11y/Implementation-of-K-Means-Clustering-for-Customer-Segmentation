@@ -69,10 +69,20 @@ plt.show()
 ```
 
 ## Output:
+Clustered Data:
+   CustomerID  Gender  Age  Annual Income (k$)  Spending Score (1-100)  \
+0           1    Male   19                  15                      39   
+1           2    Male   21                  15                      81   
+2           3  Female   20                  16                       6   
+3           4  Female   23                  16                      77   
+4           5  Female   31                  17                      40   
 
-
-
-
+   Cluster  
+0        2  
+1        3  
+2        2  
+3        3  
+4        2  
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
